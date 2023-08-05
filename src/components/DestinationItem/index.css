@@ -1,0 +1,26 @@
+.bg {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.box-input {
+  display: flex;
+  justify-content: space-between;
+  align-items: space-between;
+}
+.img1 {
+  height: 100px;
+  width: 100px;
+}
+.card {
+  display: flex;
+}
+.heading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
